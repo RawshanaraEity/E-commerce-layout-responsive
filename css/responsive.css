@@ -1,0 +1,362 @@
+@media (min-width:1200px){
+    .top-bar{
+        padding: 15px 30px;
+    }
+}
+
+@media (min-width:992px) and (max-width:1199px){
+    .top-bar{
+        padding: 15px 30px;
+    }
+    .items-title .border {
+        width: 376px;
+    }
+}
+@media (min-width:768px) and (max-width:991px){
+    .top-bar{
+        padding: 15px 15px;
+    }
+    .logo img{
+        width: 100%;
+    }
+    .main-head {
+        padding: 25px 15px;
+    }
+    .head-right ul li {
+        font-size: 16px;
+        margin-left: 20px;
+    }
+    .home-content .right-angle {
+        right: 20px;
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+    }
+    .home-content .left-angle {
+        left: 20px;
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+    }
+    .home-title {
+        height: 150px;
+        width: 380px;
+    } 
+    .home-title h1 {
+        font-size: 42px;
+    }   
+    .home-title h4 {
+        font-size: 14px;
+        letter-spacing: 8px;
+    }
+    .hot-collection h6 { 
+        font-size: 20px;
+        letter-spacing: 8px;
+        margin-bottom: 20px;
+    }
+    .hot-collection h2 {
+        font-size: 32px;
+        margin-bottom: 20px;
+    }
+    .hot-collection p {
+        font-size: 14px;
+        line-height: 30px;
+        margin-bottom: 55px;
+    }
+    .man-items {
+        height: 290px;
+    }
+    .man-items button {
+        font-size: 12px;
+        height: 40px;
+        width: 160px;
+        line-height: 40px;
+        top: 44%;
+        left: 25%;
+    }
+    .items-title {
+        padding: 20px 15px;
+    }
+    .items-title .border {
+        height: 3px;
+        width: 264px;
+        
+    }
+    .items{
+        padding: 40px 0;
+    }
+    .item-3 .wrap2 {
+        font-size: 12px;
+        height: 40px;
+        width: 40px;
+        border-radius: 50%;
+        top: 25px;
+        left: 2px;
+        padding: 6px 9px;
+    }
+    .wrap {
+        font-size: 10px;
+        height: 28px;
+        width: 50px;
+        line-height: 28px;
+    }
+    .item .eye span {
+        font-size: 15px;
+        height: 40px;
+        width: 40px;
+        top: 46%;
+        left: 38%;
+        line-height: 40px;
+        text-align: center;
+        visibility: hidden;
+    }
+    .item-5 .wrap2 {
+        font-size: 12px;
+        height: 40px;
+        width: 40px;
+        top: 22px;
+        left: 2px;
+        padding: 7px 6px;
+    }
+
+    .col-25 h2 {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    .icon {
+        font-size: 12px;
+    }
+    .icon2 button {
+        font-size: 11px;
+        height: 25px;
+        width: 25px;
+        line-height: 25px;
+        margin-bottom: 20px;
+    }
+    .foot-meanu {
+        font-size: 12px;
+    }
+    
+    
+}
+
+@media (max-width:767px){
+    .col-25,
+    .col-45,
+    .col-55{
+        width: 100%;
+    }
+    .top-bar {
+        padding: 8px 0;
+    }
+
+    .top-bar-content {
+        flex-direction: column;
+        font-size: 10px;
+    }
+    .top-bar-left p{
+        margin-bottom: 5px;
+    }
+    .top-bar-right ul li {
+        margin-left: 8px;
+    }
+    .main-head {
+        padding: 20px 0;
+        
+    }
+    .head-content{
+        flex-direction: column;
+    }
+    .logo img{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .head-right ul li {
+        font-size: 12px;
+        margin-left: 8px;
+        
+    }
+    .home-content {
+        margin-bottom: 25px;
+        height: 50vh;
+    }
+    .home-content .left-angle {
+        left: 10px;
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+    }
+    .home-content .right-angle {
+        right: 10px;
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+    }
+    
+    .home-title {
+        height: 85px;
+        width: 200px;
+    }
+    .home-title h4 {
+        font-size: 8px;
+        letter-spacing: 5px;
+    }
+    .home-title h1 {
+        font-size: 22px;
+    }
+    .hot-collection .col-55 img {
+        margin-bottom: 20px;
+    }
+    .hot-content{
+        text-align: center;
+    }
+    .hot-collection h6 {
+        font-size: 22px;
+        letter-spacing: 8px;
+        margin-bottom: 15px;
+    }
+
+    .hot-collection h2 {
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+    .hot-collection p {
+        font-size: 14px;
+        line-height: 26px;
+        
+    }
+    .hot-collection button {
+        margin-bottom: 45px;
+    }
+    .man-items {
+        height: 300px;
+    }
+    .man-items button {
+        font-size: 12px;
+        height: 50px;
+        width: 160px;
+        line-height: 50px;
+        top: 43%;
+        left: 27%;
+    }
+    .col-45 .man-1{
+        max-width: 100%;
+    }
+    .col-45 .man-2{
+        max-width: 100%;
+    }
+
+    .items {
+        padding: 50px 0;
+    }
+    .items-title .border {
+        height: 2px;
+        width: 60px;
+    }
+    .items-title h5 {
+        font-size: 22px;
+    }
+    
+    .meanu ul li {
+        font-size: 12px;
+        margin-right: 12px;
+        margin-left: 12px;
+    }
+    .item {
+        margin-bottom: 20px;
+    }
+    .col-25 h2 {
+        font-size: 26px;
+        margin-bottom: 10px;
+    }
+    .icon {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+    .icon2 button {
+        font-size: 10px;
+        height: 25px;
+        width: 25px;
+        line-height: 25px;
+    }
+    .item .eye span {
+        font-size: 14px;
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        left: 42%;
+    }
+    .foot-meanu {
+        font-size: 12px;
+       flex-direction: column;
+    }
+    .foot-left p{
+        margin-bottom: 8px;
+    }
+    .foot-right li {
+        margin-left: 15px;
+    }
+}
+@media (min-width:575px) and (max-width:767px){
+     .col-45{
+        width: 50%;
+        
+    } 
+    .col-25{
+        width: 50%;
+    }
+    .top-bar {
+        padding: 10px 0;
+        
+    }
+    .top-bar-content {
+       
+        font-size: 12px;
+    }
+
+    .top-bar-left p {
+    margin-bottom: 5px;
+    }
+    .head-right ul li {
+        font-size: 14px;
+        margin-left: 24px;
+    }
+    .home-content .left-angle {
+        left: 15px;
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+    }
+    .home-content .right-angle {
+        right: 15px;
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+    }
+    .man-items button {
+        font-size: 11px;
+        height: 40px;
+        width: 134px;
+        line-height: 40px;
+        top: 43%;
+        left: 23%;
+    }
+    .items-title .border {
+       
+        width: 187px;
+    }
+
+    .item-3 .wrap2 {
+        font-size: 12px;
+        height: 50px;
+        width: 50px;
+        padding: 10px 11px;
+    }
+    .item-5 .wrap2 {
+        font-size: 12px;
+        height: 50px;
+        width: 50px;
+        padding: 10px 11px;
+    }
+
+}
